@@ -146,8 +146,8 @@ bash
 sudo apt update && sudo apt install python3 python3-pip -y
 
 # 2. Clone repository
-git clone https://github.com/HamzzXPP/wifi_jammer.git
-cd wifi_jammer
+git clone https://github.com/H4mlOp/wifi-jammer.git
+cd wifi-jammer
 
 # 3. Install modules
 pip3 install scapy colorama tqdm mac-vendor-lookup
